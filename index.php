@@ -5,9 +5,9 @@
 	<title>My Project</title>
 </head>
 <body>
-	<h1>My Project</h1>
-	<hr />
-	<p>Lorem Ipsum paragraphum</p>
+<h1>My Project</h1>
+<hr />
+<p>Lorem Ipsum paragraphum</p>
 <ul>
 	<li>List elements created</li>
 	<li>only in order to modify the</li>
